@@ -45,4 +45,14 @@ application and its infrastructure.
 - Learn how to automate infrastructure deployment and management tasks using boto3. - Experience with real-time monitoring
 and alerting systems.
 
+/////////////////////////////////////
+
+Solution 
+
+Using Boto3 - script "ec2withwebAppspluss3.py"
+created S3 bucket uploaded the Web App 
+Created Two EC2 instances and installed nginx.
+Using s3 storage location, copied the web App to EC2s and enabled the Web App.
+Made sure that Web App is working on both the EC2 instances.
+
 
